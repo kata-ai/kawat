@@ -13,8 +13,7 @@ Bahrain	Dinar
 Bangladesh	Taka
 Barbados	Dolar
 Belanda	Euro
-Belarus	Rubel
-Belarusia	Rubel
+Belarus/Belarusia	Rubel
 Belgia	Euro
 Belize	Dolar
 Bhutan	Ngultrum
@@ -23,8 +22,7 @@ Brasil	Real
 Bulgaria	Lev
 Burundi	Franc
 Ceko	Koruna
-Chile	Peso
-Chili	Peso
+Chile/Chili	Peso
 Cina	Yuan
 Denmark	Krona
 Dominika	Dolar
@@ -41,8 +39,7 @@ Ghana	Cedi
 Guinea	Franc
 Guyana	Dolar
 Honduras	Lempira
-Hongaria	Forint
-Hungaria	Forint
+Hongaria/Hungaria	Forint
 Indonesia	Rupiah
 Inggris	Pound
 Irak	Dinar
@@ -96,11 +93,8 @@ Perancis	Euro
 Peru	Sol
 Polandia	Zloty
 Portugal	Euro
-Portugal	Euro
 Qatar	Riyal
-Romania	Leu
-Rumania	Leu
-Rusia	Rubel
+Romania/Rumania	Leu
 Rusia	Rubel
 Rwanda	Franc
 Samoa	Tala
@@ -133,7 +127,6 @@ Venezuela	Bolivar
 Vietnam	Dong
 Yaman	Rial
 Yordania	Dinar
-Yunani	Euro
 Yunani	Euro
 Zambia	Kwacha
 Zimbabwe	Euro

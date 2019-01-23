@@ -13,8 +13,7 @@ Bahrain	Manama
 Bangladesh	Dhaka
 Barbados	Bridgetown
 Belanda	Amsterdam
-Belarus	Minsk
-Belarusia	Minsk
+Belarus/Belarusia	Minsk
 Belgia	Brussel
 Belize	Belmopan
 Bhutan	Thimphu
@@ -23,8 +22,7 @@ Brasil	Brasilia
 Bulgaria	Sofia
 Burundi	Bujumbura
 Ceko	Praha
-Chile	Santiago
-Chili	Santiago
+Chile/Chili	Santiago
 Cina	Beijing
 Denmark	Kopenhagen
 Dominika	Roseau
@@ -41,8 +39,7 @@ Ghana	Accra
 Guinea	Conakry
 Guyana	Georgetown
 Honduras	Tegucigalpa
-Hongaria	Budapest
-Hungaria	Budapest
+Hongaria/Hungaria	Budapest
 Indonesia	Jakarta
 Inggris	London
 Irak	Bagdad
@@ -58,7 +55,6 @@ Kazakhstan	Astana
 Kenya	Nairobi
 Kirgizstan	Bishkek
 Kolombia	Bogota
-Korsel	Seoul
 Korsel	Seoul
 Korut	Pyongyang
 Kroasia	Zagreb
@@ -95,13 +91,10 @@ Paraguay	Asuncion
 Perancis	Paris
 Peru	Lima
 Polandia	Warsawa
-Portugal	Lisboa
-Portugal	Lisbon
+Portugal	Lisboa/Lisbon
 Qatar	Doha
-Romania	Bukares
-Rumania	Bukares
-Rusia	Moskow
-Rusia	Moskwa
+Romania/Rumania	Bukares
+Rusia	Moskow/Moskwa
 Rwanda	Kigali
 Samoa	Apia
 Senegal	Dakar
@@ -133,7 +126,6 @@ Venezuela	Caracas
 Vietnam	Hanoi
 Yaman	Sanaa
 Yordania	Amman
-Yunani	Athena
-Yunani	Atena
+Yunani	Athena/Atena
 Zambia	Lusaka
 Zimbabwe	Harare

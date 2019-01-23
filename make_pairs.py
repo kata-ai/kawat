@@ -31,14 +31,17 @@ if __name__ == '__main__':
             data.append([(entries[0], e) for e in entries[1:]])
 
     section = os.path.splitext(os.path.basename(args.file))[0]
+
+    # Here `col` contains a list of tuples corresponding to a column
     for hent, col in zip(hentries[1:], zip(*data)):
         sec_name = section
         if len(hentries) > 2:
             sec_name = f'{section}-{hent}'
         print(':', sec_name)
 
+        # We pair each tuple in the column with every other tuples
         for i in range(len(col)):
             for j in range(i + 1, len(col)):
-                if '-' in col[i] or '-' in col[j]:
+                if '-' in col[i] or '-' in col[j]:  # entry is empty, skip
                     continue
                 print(col[i][0], col[i][1], col[j][0], col[j][1])

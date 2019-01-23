@@ -14,7 +14,7 @@ if __name__ == '__main__':
     with open(args.file, encoding=args.encoding) as f:
         # Get the header entries
         try:
-            hentries = next(f).lower().split()
+            hentries = next(f).split()
         except StopIteration:
             p.error('file is empty')
         if len(hentries) < 2:
@@ -23,7 +23,7 @@ if __name__ == '__main__':
         # Variable to store the data, where each element is a list of tuples
         data = []
         for linum, line in enumerate(f, 2):
-            entries = line.lower().split()
+            entries = line.split()
             if len(entries) != len(hentries):
                 p.error(
                     f'length of entries mismatch in line {linum}, '

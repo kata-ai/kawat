@@ -1,0 +1,10 @@
+Thing	Counter
+apel	buah
+berat	gram/kg/kilogram
+jalan	kilometer
+kacang	biji
+kain	meter
+kertas	lembar/helai
+kue	buah
+rambut	helai
+telur	butir

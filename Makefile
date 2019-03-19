@@ -3,9 +3,8 @@ syntax_dir := $(build_dir)/syntax
 semantic_dir := $(build_dir)/semantic
 
 # File names must match those in `syntax` directory
-# TODO rename "duplications" to "reduplications"
 syntax_files := $(syntax_dir)/nouns.txt $(syntax_dir)/verbs.txt
-syntax_files += $(syntax_dir)/plurals.txt $(syntax_dir)/duplications.txt
+syntax_files += $(syntax_dir)/plurals.txt $(syntax_dir)/reduplications.txt
 
 # File names must match those in `semantic` directory
 semantic_files := $(semantic_dir)/antonyms.txt $(semantic_dir)/country-capitals.txt

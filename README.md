@@ -15,3 +15,18 @@ http://creativecommons.org/licenses/by-sa/4.0/ or send a letter to Creative
 Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
 The code is licensed under the Apache License, Version 2.0.
+
+## Citation
+
+If you use KaWAT in your work, please cite:
+
+```
+@article{kurniawan2019,
+  title={KaWAT: A Word Analogy Task Dataset for Indonesian},
+  url={http://arxiv.org/abs/1906.09912},
+  journal={arXiv:1906.09912 [cs]},
+  author={Kurniawan, Kemal},
+  year={2019},
+  month={Jun}
+}
+```
